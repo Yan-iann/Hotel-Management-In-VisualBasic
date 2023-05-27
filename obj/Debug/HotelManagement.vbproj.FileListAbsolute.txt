@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\user\source\repos\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\user\source\repos\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\user\source\repos\HotelManagement\bin\Debug\HotelManagement.xml
+C:\Users\user\source\repos\HotelManagement\bin\Debug\IBM.Data.DB2.dll
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.Resources.resources
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.vbproj.CopyComplete
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.xml
+C:\Users\user\source\repos\HotelManagement\obj\Debug\HotelManagement.pdb
